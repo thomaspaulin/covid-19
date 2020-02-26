@@ -1,0 +1,70 @@
+.drawer-wrapper {
+  position: fixed;
+  width: 250px;
+
+  padding: 1rem;
+  margin: 1rem;
+
+  display: flex;
+  flex-direction: column;
+
+  z-index: 999;
+
+  background-color: #2a363b;
+  color: white;
+  box-shadow: 1px 1px 5px 0px #232323;
+}
+
+.drawer-title {
+  margin: 0;
+  padding: 0 0 1rem 0;
+  border-bottom: 1px solid #3f494d;
+}
+
+.country-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 1rem 0 0 0;
+  font-size: 1vw;
+}
+
+.country-header > h2 {
+  margin: 0 1rem 0 1rem;
+}
+
+.cases-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  margin: 1rem 0 1rem 0;
+}
+
+.cases {
+  color: #feceab;
+}
+
+.recoveries {
+  color: #99b898;
+}
+
+.deaths {
+  color: #e84a5f;
+}
+
+.drawer-filler {
+  flex: 1;
+}
+
+.drawer-footer {
+  justify-self: flex-end;
+  padding-top: 1rem;
+
+  border-top: 1px solid #3f494d;
+}
+
+.drawer-footer > a {
+  color: white;
+}

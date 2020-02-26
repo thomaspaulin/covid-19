@@ -1,0 +1,1774 @@
+{
+  "lastUpdated": "2020-03-10T12:21:53Z",
+  "iso_3166-1": {
+    "aruba": {
+      "alpha3": "ABW",
+      "alpha2": "AW",
+      "numeric": "533"
+    },
+    "afghanistan": {
+      "alpha3": "AFG",
+      "alpha2": "AF",
+      "numeric": "004"
+    },
+    "angola": {
+      "alpha3": "AGO",
+      "alpha2": "AO",
+      "numeric": "024"
+    },
+    "anguilla": {
+      "alpha3": "AIA",
+      "alpha2": "AI",
+      "numeric": "660"
+    },
+    "åland islands": {
+      "alpha3": "ALA",
+      "alpha2": "AX",
+      "numeric": "248"
+    },
+    "åland": {
+      "alpha3": "ALA",
+      "alpha2": "AX",
+      "numeric": "248"
+    },
+    "albania": {
+      "alpha3": "ALB",
+      "alpha2": "AL",
+      "numeric": "008"
+    },
+    "andorra": {
+      "alpha3": "AND",
+      "alpha2": "AD",
+      "numeric": "020"
+    },
+    "united arab emirates": {
+      "alpha3": "ARE",
+      "alpha2": "AE",
+      "numeric": "784"
+    },
+    "argentina": {
+      "alpha3": "ARG",
+      "alpha2": "AR",
+      "numeric": "032"
+    },
+    "armenia": {
+      "alpha3": "ARM",
+      "alpha2": "AM",
+      "numeric": "051"
+    },
+    "american samoa": {
+      "alpha3": "ASM",
+      "alpha2": "AS",
+      "numeric": "016"
+    },
+    "antarctica": {
+      "alpha3": "ATA",
+      "alpha2": "AQ",
+      "numeric": "010"
+    },
+    "french southern territories": {
+      "alpha3": "ATF",
+      "alpha2": "TF",
+      "numeric": "260"
+    },
+    "antigua and barbuda": {
+      "alpha3": "ATG",
+      "alpha2": "AG",
+      "numeric": "028"
+    },
+    "australia": {
+      "alpha3": "AUS",
+      "alpha2": "AU",
+      "numeric": "036"
+    },
+    "austria": {
+      "alpha3": "AUT",
+      "alpha2": "AT",
+      "numeric": "040"
+    },
+    "azerbaijan": {
+      "alpha3": "AZE",
+      "alpha2": "AZ",
+      "numeric": "031"
+    },
+    "burundi": {
+      "alpha3": "BDI",
+      "alpha2": "BI",
+      "numeric": "108"
+    },
+    "belgium": {
+      "alpha3": "BEL",
+      "alpha2": "BE",
+      "numeric": "056"
+    },
+    "benin": {
+      "alpha3": "BEN",
+      "alpha2": "BJ",
+      "numeric": "204"
+    },
+    "bonaire, sint eustatius and saba": {
+      "alpha3": "BES",
+      "alpha2": "BQ",
+      "numeric": "535"
+    },
+    "bonaire": {
+      "alpha3": "BES",
+      "alpha2": "BQ",
+      "numeric": "535"
+    },
+    "sint eustatius": {
+      "alpha3": "BES",
+      "alpha2": "BQ",
+      "numeric": "535"
+    },
+    "saba": {
+      "alpha3": "BES",
+      "alpha2": "BQ",
+      "numeric": "535"
+    },
+    "burkina faso": {
+      "alpha3": "BFA",
+      "alpha2": "BF",
+      "numeric": "854"
+    },
+    "bangladesh": {
+      "alpha3": "BGD",
+      "alpha2": "BD",
+      "numeric": "050"
+    },
+    "bulgaria": {
+      "alpha3": "BGR",
+      "alpha2": "BG",
+      "numeric": "100"
+    },
+    "bahrain": {
+      "alpha3": "BHR",
+      "alpha2": "BH",
+      "numeric": "048"
+    },
+    "bahamas": {
+      "alpha3": "BHS",
+      "alpha2": "BS",
+      "numeric": "044"
+    },
+    "bosnia and herzegovina": {
+      "alpha3": "BIH",
+      "alpha2": "BA",
+      "numeric": "070"
+    },
+    "saint barthélemy": {
+      "alpha3": "BLM",
+      "alpha2": "BL",
+      "numeric": "652"
+    },
+    "belarus": {
+      "alpha3": "BLR",
+      "alpha2": "BY",
+      "numeric": "112"
+    },
+    "belize": {
+      "alpha3": "BLZ",
+      "alpha2": "BZ",
+      "numeric": "084"
+    },
+    "bermuda": {
+      "alpha3": "BMU",
+      "alpha2": "BM",
+      "numeric": "060"
+    },
+    "bolivia": {
+      "alpha3": "BOL",
+      "alpha2": "BO",
+      "numeric": "068"
+    },
+    "bolivia (plurinational state of)": {
+      "alpha3": "BOL",
+      "alpha2": "BO",
+      "numeric": "068"
+    },
+    "brazil": {
+      "alpha3": "BRA",
+      "alpha2": "BR",
+      "numeric": "076"
+    },
+    "barbados": {
+      "alpha3": "BRB",
+      "alpha2": "BB",
+      "numeric": "052"
+    },
+    "brunei": {
+      "alpha3": "BRN",
+      "alpha2": "BN",
+      "numeric": "096"
+    },
+    "negara brunei darussalam": {
+      "alpha3": "BRN",
+      "alpha2": "BN",
+      "numeric": "096"
+    },
+    "brunei darussalam": {
+      "alpha3": "BRN",
+      "alpha2": "BN",
+      "numeric": "096"
+    },
+    "nation of brunei": {
+      "alpha3": "BRN",
+      "alpha2": "BN",
+      "numeric": "096"
+    },
+    "the abode of peace": {
+      "alpha3": "BRN",
+      "alpha2": "BN",
+      "numeric": "096"
+    },
+    "bhutan": {
+      "alpha3": "BTN",
+      "alpha2": "BT",
+      "numeric": "064"
+    },
+    "bouvet island": {
+      "alpha3": "BVT",
+      "alpha2": "BV",
+      "numeric": "074"
+    },
+    "botswana": {
+      "alpha3": "BWA",
+      "alpha2": "BW",
+      "numeric": "072"
+    },
+    "central african republic": {
+      "alpha3": "CAF",
+      "alpha2": "CF",
+      "numeric": "140"
+    },
+    "canada": {
+      "alpha3": "CAN",
+      "alpha2": "CA",
+      "numeric": "124"
+    },
+    "cocos islands": {
+      "alpha3": "CCK",
+      "alpha2": "CC",
+      "numeric": "166"
+    },
+    "keeling island": {
+      "alpha3": "CCK",
+      "alpha2": "CC",
+      "numeric": "166"
+    },
+    "switzerland": {
+      "alpha3": "CHE",
+      "alpha2": "CH",
+      "numeric": "756"
+    },
+    "chile": {
+      "alpha3": "CHL",
+      "alpha2": "CL",
+      "numeric": "152"
+    },
+    "china": {
+      "alpha3": "CHN",
+      "alpha2": "CN",
+      "numeric": "156"
+    },
+    "people's republic of china": {
+      "alpha3": "CHN",
+      "alpha2": "CN",
+      "numeric": "156"
+    },
+    "côte d'ivoire": {
+      "alpha3": "CIV",
+      "alpha2": "CI",
+      "numeric": "384"
+    },
+    "ivory coast": {
+      "alpha3": "CIV",
+      "alpha2": "CI",
+      "numeric": "384"
+    },
+    "cameroon": {
+      "alpha3": "CMR",
+      "alpha2": "CM",
+      "numeric": "120"
+    },
+    "congo, democratic republic of the": {
+      "alpha3": "COD",
+      "alpha2": "CD",
+      "numeric": "180"
+    },
+    "congo": {
+      "alpha3": "COG",
+      "alpha2": "CG",
+      "numeric": "178"
+    },
+    "cook islands": {
+      "alpha3": "COK",
+      "alpha2": "CK",
+      "numeric": "184"
+    },
+    "colombia": {
+      "alpha3": "COL",
+      "alpha2": "CO",
+      "numeric": "170"
+    },
+    "comoros": {
+      "alpha3": "COM",
+      "alpha2": "KM",
+      "numeric": "174"
+    },
+    "cabo verde": {
+      "alpha3": "CPV",
+      "alpha2": "CV",
+      "numeric": "132"
+    },
+    "costa rica": {
+      "alpha3": "CRI",
+      "alpha2": "CR",
+      "numeric": "188"
+    },
+    "cuba": {
+      "alpha3": "CUB",
+      "alpha2": "CU",
+      "numeric": "192"
+    },
+    "curaçao": {
+      "alpha3": "CUW",
+      "alpha2": "CW",
+      "numeric": "531"
+    },
+    "curacao": {
+      "alpha3": "CUW",
+      "alpha2": "CW",
+      "numeric": "531"
+    },
+    "christmas island": {
+      "alpha3": "CXR",
+      "alpha2": "CX",
+      "numeric": "162"
+    },
+    "cayman islands": {
+      "alpha3": "CYM",
+      "alpha2": "KY",
+      "numeric": "136"
+    },
+    "cyprus": {
+      "alpha3": "CYP",
+      "alpha2": "CY",
+      "numeric": "196"
+    },
+    "czechia": {
+      "alpha3": "CZE",
+      "alpha2": "CZ",
+      "numeric": "203"
+    },
+    "czech republic": {
+      "alpha3": "CZE",
+      "alpha2": "CZ",
+      "numeric": "203"
+    },
+    "germany": {
+      "alpha3": "DEU",
+      "alpha2": "DE",
+      "numeric": "276"
+    },
+    "djibouti": {
+      "alpha3": "DJI",
+      "alpha2": "DJ",
+      "numeric": "262"
+    },
+    "dominica": {
+      "alpha3": "DMA",
+      "alpha2": "DM",
+      "numeric": "212"
+    },
+    "denmark": {
+      "alpha3": "DNK",
+      "alpha2": "DK",
+      "numeric": "208"
+    },
+    "dominican republic": {
+      "alpha3": "DOM",
+      "alpha2": "DO",
+      "numeric": "214"
+    },
+    "algeria": {
+      "alpha3": "DZA",
+      "alpha2": "DZ",
+      "numeric": "012"
+    },
+    "ecuador": {
+      "alpha3": "ECU",
+      "alpha2": "EC",
+      "numeric": "218"
+    },
+    "egypt": {
+      "alpha3": "EGY",
+      "alpha2": "EG",
+      "numeric": "818"
+    },
+    "eritrea": {
+      "alpha3": "ERI",
+      "alpha2": "ER",
+      "numeric": "232"
+    },
+    "western sahara": {
+      "alpha3": "ESH",
+      "alpha2": "EH",
+      "numeric": "732"
+    },
+    "spain": {
+      "alpha3": "ESP",
+      "alpha2": "ES",
+      "numeric": "724"
+    },
+    "estonia": {
+      "alpha3": "EST",
+      "alpha2": "EE",
+      "numeric": "233"
+    },
+    "ethiopia": {
+      "alpha3": "ETH",
+      "alpha2": "ET",
+      "numeric": "231"
+    },
+    "Finland": {
+      "alpha3": "FIN",
+      "alpha2": "FI",
+      "numeric": "246"
+    },
+    "fiji": {
+      "alpha3": "FJI",
+      "alpha2": "FJ",
+      "numeric": "242"
+    },
+    "falkland Islands": {
+      "alpha3": "FLK",
+      "alpha2": "FK",
+      "numeric": "238"
+    },
+    "malvinas": {
+      "alpha3": "FLK",
+      "alpha2": "FK",
+      "numeric": "238"
+    },
+    "france": {
+      "alpha3": "FRA",
+      "alpha2": "FR",
+      "numeric": "250"
+    },
+    "faroe islands": {
+      "alpha3": "FRO",
+      "alpha2": "FO",
+      "numeric": "234"
+    },
+    "micronesia": {
+      "alpha3": "FSM",
+      "alpha2": "FM",
+      "numeric": "583"
+    },
+    "micronesia (federated states of)": {
+      "alpha3": "FSM",
+      "alpha2": "FM",
+      "numeric": "583"
+    },
+    "federated states of micronesia": {
+      "alpha3": "FSM",
+      "alpha2": "FM",
+      "numeric": "583"
+    },
+    "gabon": {
+      "alpha3": "GAB",
+      "alpha2": "GA",
+      "numeric": "266"
+    },
+    "united kingdom of great britain and northern ireland": {
+      "alpha3": "GBR",
+      "alpha2": "GB",
+      "numeric": "826"
+    },
+    "united kingdom": {
+      "alpha3": "GBR",
+      "alpha2": "GB",
+      "numeric": "826"
+    },
+    "uk": {
+      "alpha3": "GBR",
+      "alpha2": "GB",
+      "numeric": "826"
+    },
+    "georgia": {
+      "alpha3": "GEO",
+      "alpha2": "GE",
+      "numeric": "268"
+    },
+    "guernsey": {
+      "alpha3": "GGY",
+      "alpha2": "GG",
+      "numeric": "831"
+    },
+    "ghana": {
+      "alpha3": "GHA",
+      "alpha2": "GH",
+      "numeric": "288"
+    },
+    "gibraltar": {
+      "alpha3": "GIB",
+      "alpha2": "GI",
+      "numeric": "292"
+    },
+    "guinea": {
+      "alpha3": "GIN",
+      "alpha2": "GN",
+      "numeric": "324"
+    },
+    "guadeloupe": {
+      "alpha3": "GLP",
+      "alpha2": "GP",
+      "numeric": "312"
+    },
+    "gambia": {
+      "alpha3": "GMB",
+      "alpha2": "GM",
+      "numeric": "270"
+    },
+    "guinea-bissau": {
+      "alpha3": "GNB",
+      "alpha2": "GW",
+      "numeric": "624"
+    },
+    "equatorial guinea": {
+      "alpha3": "GNQ",
+      "alpha2": "GQ",
+      "numeric": "226"
+    },
+    "greece": {
+      "alpha3": "GRC",
+      "alpha2": "GR",
+      "numeric": "300"
+    },
+    "grenada": {
+      "alpha3": "GRD",
+      "alpha2": "GD",
+      "numeric": "308"
+    },
+    "greenland": {
+      "alpha3": "GRL",
+      "alpha2": "GL",
+      "numeric": "304"
+    },
+    "guatemala": {
+      "alpha3": "GTM",
+      "alpha2": "GT",
+      "numeric": "320"
+    },
+    "french guiana": {
+      "alpha3": "GUF",
+      "alpha2": "GF",
+      "numeric": "254"
+    },
+    "guam": {
+      "alpha3": "GUM",
+      "alpha2": "GU",
+      "numeric": "316"
+    },
+    "guyana": {
+      "alpha3": "GUY",
+      "alpha2": "GY",
+      "numeric": "328"
+    },
+    "hong kong": {
+      "alpha3": "HKG",
+      "alpha2": "HK",
+      "numeric": "344"
+    },
+    "heard island and mcdonald islands": {
+      "alpha3": "HMD",
+      "alpha2": "HM",
+      "numeric": "334"
+    },
+    "honduras": {
+      "alpha3": "HND",
+      "alpha2": "HN",
+      "numeric": "340"
+    },
+    "croatia": {
+      "alpha3": "HRV",
+      "alpha2": "HR",
+      "numeric": "191"
+    },
+    "haiti": {
+      "alpha3": "HTI",
+      "alpha2": "HT",
+      "numeric": "332"
+    },
+    "hungary": {
+      "alpha3": "HUN",
+      "alpha2": "HU",
+      "numeric": "348"
+    },
+    "indonesia": {
+      "alpha3": "IDN",
+      "alpha2": "ID",
+      "numeric": "360"
+    },
+    "isle of man": {
+      "alpha3": "IMN",
+      "alpha2": "IM",
+      "numeric": "833"
+    },
+    "india": {
+      "alpha3": "IND",
+      "alpha2": "IN",
+      "numeric": "356"
+    },
+    "british indian ocean territory": {
+      "alpha3": "IOT",
+      "alpha2": "IO",
+      "numeric": "086"
+    },
+    "ireland": {
+      "alpha3": "IRL",
+      "alpha2": "IE",
+      "numeric": "372"
+    },
+    "iran": {
+      "alpha3": "IRN",
+      "alpha2": "IR",
+      "numeric": "364"
+    },
+    "iran (islamic republic of)": {
+      "alpha3": "IRN",
+      "alpha2": "IR",
+      "numeric": "364"
+    },
+    "iraq": {
+      "alpha3": "IRQ",
+      "alpha2": "IQ",
+      "numeric": "368"
+    },
+    "iceland": {
+      "alpha3": "ISL",
+      "alpha2": "IS",
+      "numeric": "352"
+    },
+    "israel": {
+      "alpha3": "ISR",
+      "alpha2": "IL",
+      "numeric": "376"
+    },
+    "italy": {
+      "alpha3": "ITA",
+      "alpha2": "IT",
+      "numeric": "380"
+    },
+    "jamaica": {
+      "alpha3": "JAM",
+      "alpha2": "JM",
+      "numeric": "388"
+    },
+    "jersey": {
+      "alpha3": "JEY",
+      "alpha2": "JE",
+      "numeric": "832"
+    },
+    "jordan": {
+      "alpha3": "JOR",
+      "alpha2": "JO",
+      "numeric": "400"
+    },
+    "japan": {
+      "alpha3": "JPN",
+      "alpha2": "JP",
+      "numeric": "392"
+    },
+    "kazakhstan": {
+      "alpha3": "KAZ",
+      "alpha2": "KZ",
+      "numeric": "398"
+    },
+    "kenya": {
+      "alpha3": "KEN",
+      "alpha2": "KE",
+      "numeric": "404"
+    },
+    "kyrgyzstan": {
+      "alpha3": "KGZ",
+      "alpha2": "KG",
+      "numeric": "417"
+    },
+    "cambodia": {
+      "alpha3": "KHM",
+      "alpha2": "KH",
+      "numeric": "116"
+    },
+    "kiribati": {
+      "alpha3": "KIR",
+      "alpha2": "KI",
+      "numeric": "296"
+    },
+    "saint kitts and nevis": {
+      "alpha3": "KNA",
+      "alpha2": "KN",
+      "numeric": "659"
+    },
+    "korea, republic of": {
+      "alpha3": "KOR",
+      "alpha2": "KR",
+      "numeric": "410"
+    },
+    "korea": {
+      "alpha3": "KOR",
+      "alpha2": "KR",
+      "numeric": "410"
+    },
+    "republic of korea": {
+      "alpha3": "KOR",
+      "alpha2": "KR",
+      "numberic": "410"
+    },
+    "kuwait": {
+      "alpha3": "KWT",
+      "alpha2": "KW",
+      "numeric": "414"
+    },
+    "lao people's democratic republic": {
+      "alpha3": "LAO",
+      "alpha2": "LA",
+      "numeric": "418"
+    },
+    "laos": {
+      "alpha3": "LAO",
+      "alpha2": "LA",
+      "numeric": "418"
+    },
+    "lebanon": {
+      "alpha3": "LBN",
+      "alpha2": "LB",
+      "numeric": "422"
+    },
+    "liberia": {
+      "alpha3": "LBR",
+      "alpha2": "LR",
+      "numeric": "430"
+    },
+    "libya": {
+      "alpha3": "LBY",
+      "alpha2": "LY",
+      "numeric": "434"
+    },
+    "saint lucia": {
+      "alpha3": "LCA",
+      "alpha2": "LC",
+      "numeric": "662"
+    },
+    "liechtenstein": {
+      "alpha3": "LIE",
+      "alpha2": "LI",
+      "numeric": "438"
+    },
+    "sri lanka": {
+      "alpha3": "LKA",
+      "alpha2": "LK",
+      "numeric": "144"
+    },
+    "lesotho": {
+      "alpha3": "LSO",
+      "alpha2": "LS",
+      "numeric": "426"
+    },
+    "lithuania": {
+      "alpha3": "LTU",
+      "alpha2": "LT",
+      "numeric": "440"
+    },
+    "luxembourg": {
+      "alpha3": "LUX",
+      "alpha2": "LU",
+      "numeric": "442"
+    },
+    "latvia": {
+      "alpha3": "LVA",
+      "alpha2": "LV",
+      "numeric": "428"
+    },
+    "macao": {
+      "alpha3": "MAC",
+      "alpha2": "MO",
+      "numeric": "446"
+    },
+    "saint martin (french part)": {
+      "alpha3": "MAF",
+      "alpha2": "MF",
+      "numeric": "663"
+    },
+    "morocco": {
+      "alpha3": "MAR",
+      "alpha2": "MA",
+      "numeric": "504"
+    },
+    "monaco": {
+      "alpha3": "MCO",
+      "alpha2": "MC",
+      "numeric": "492"
+    },
+    "moldova, republic of": {
+      "alpha3": "MDA",
+      "alpha2": "MD",
+      "numeric": "498"
+    },
+    "moldova": {
+      "alpha3": "MDA",
+      "alpha2": "MD",
+      "numeric": "498"
+    },
+    "madagascar": {
+      "alpha3": "MDG",
+      "alpha2": "MG",
+      "numeric": "450"
+    },
+    "maldives": {
+      "alpha3": "MDV",
+      "alpha2": "MV",
+      "numeric": "462"
+    },
+    "mexico": {
+      "alpha3": "MEX",
+      "alpha2": "MX",
+      "numeric": "484"
+    },
+    "marshall islands": {
+      "alpha3": "MHL",
+      "alpha2": "MH",
+      "numeric": "584"
+    },
+    "north macedonia": {
+      "alpha3": "MKD",
+      "alpha2": "MK",
+      "numeric": "807"
+    },
+    "mali": {
+      "alpha3": "MLI",
+      "alpha2": "ML",
+      "numeric": "466"
+    },
+    "malta": {
+      "alpha3": "MLT",
+      "alpha2": "MT",
+      "numeric": "470"
+    },
+    "myanmar": {
+      "alpha3": "MMR",
+      "alpha2": "MM",
+      "numeric": "104"
+    },
+    "montenegro": {
+      "alpha3": "MNE",
+      "alpha2": "ME",
+      "numeric": "499"
+    },
+    "mongolia": {
+      "alpha3": "MNG",
+      "alpha2": "MN",
+      "numeric": "496"
+    },
+    "northern mariana islands": {
+      "alpha3": "MNP",
+      "alpha2": "MP",
+      "numeric": "580"
+    },
+    "mozambique": {
+      "alpha3": "MOZ",
+      "alpha2": "MZ",
+      "numeric": "508"
+    },
+    "mauritania": {
+      "alpha3": "MRT",
+      "alpha2": "MR",
+      "numeric": "478"
+    },
+    "montserrat": {
+      "alpha3": "MSR",
+      "alpha2": "MS",
+      "numeric": "500"
+    },
+    "martinique": {
+      "alpha3": "MTQ",
+      "alpha2": "MQ",
+      "numeric": "474"
+    },
+    "mauritius": {
+      "alpha3": "MUS",
+      "alpha2": "MU",
+      "numeric": "480"
+    },
+    "malawi": {
+      "alpha3": "MWI",
+      "alpha2": "MW",
+      "numeric": "454"
+    },
+    "malaysia": {
+      "alpha3": "MYS",
+      "alpha2": "MY",
+      "numeric": "458"
+    },
+    "mayotte": {
+      "alpha3": "MYT",
+      "alpha2": "YT",
+      "numeric": "175"
+    },
+    "namibia": {
+      "alpha3": "NAM",
+      "alpha2": "NA",
+      "numeric": "516"
+    },
+    "new caledonia": {
+      "alpha3": "NCL",
+      "alpha2": "NC",
+      "numeric": "540"
+    },
+    "niger": {
+      "alpha3": "NER",
+      "alpha2": "NE",
+      "numeric": "562"
+    },
+    "norfolk island": {
+      "alpha3": "NFK",
+      "alpha2": "NF",
+      "numeric": "574"
+    },
+    "nigeria": {
+      "alpha3": "NGA",
+      "alpha2": "NG",
+      "numeric": "566"
+    },
+    "nicaragua": {
+      "alpha3": "NIC",
+      "alpha2": "NI",
+      "numeric": "558"
+    },
+    "niue": {
+      "alpha3": "NIU",
+      "alpha2": "NU",
+      "numeric": "570"
+    },
+    "netherlands": {
+      "alpha3": "NLD",
+      "alpha2": "NL",
+      "numeric": "528"
+    },
+    "norway": {
+      "alpha3": "NOR",
+      "alpha2": "NO",
+      "numeric": "578"
+    },
+    "nepal": {
+      "alpha3": "NPL",
+      "alpha2": "NO",
+      "numeric": "524"
+    },
+    "nauru": {
+      "alpha3": "NRU",
+      "alpha2": "NR",
+      "numeric": "520"
+    },
+    "new zealand": {
+      "alpha3": "NZL",
+      "alpha2": "NZ",
+      "numeric": "554"
+    },
+    "nz": {
+      "alpha3": "NZL",
+      "alpha2": "NZ",
+      "numeric": "554"
+    },
+    "oman": {
+      "alpha3": "OMN",
+      "alpha2": "OM",
+      "numeric": "512"
+    },
+    "pakistan": {
+      "alpha3": "PAK",
+      "alpha2": "PK",
+      "numeric": "586"
+    },
+    "panama": {
+      "alpha3": "PAN",
+      "alpha2": "PA",
+      "numeric": "591"
+    },
+    "pitcairn": {
+      "alpha3": "PCN",
+      "alpha2": "PN",
+      "numeric": "612"
+    },
+    "peru": {
+      "alpha3": "PER",
+      "alpha2": "PE",
+      "numeric": "604"
+    },
+    "philippines": {
+      "alpha3": "PHL",
+      "alpha2": "PH",
+      "numeric": "608"
+    },
+    "palau": {
+      "alpha3": "PLW",
+      "alpha2": "PW",
+      "numeric": "585"
+    },
+    "papua new guinea": {
+      "alpha3": "PNG",
+      "alpha2": "PG",
+      "numeric": "598"
+    },
+    "poland": {
+      "alpha3": "POL",
+      "alpha2": "PL",
+      "numeric": "616"
+    },
+    "puerto rico": {
+      "alpha3": "PRI",
+      "alpha2": "PR",
+      "numeric": "630"
+    },
+    "korea (democratic people's republic of)": {
+      "alpha3": "PRK",
+      "alpha2": "KP",
+      "numeric": "408"
+    },
+    "north korea": {
+      "alpha3": "PRK",
+      "alpha2": "KP",
+      "numeric": "408"
+    },
+    "DPRK": {
+      "alpha3": "PRK",
+      "alpha2": "KP",
+      "numeric": "408"
+    },
+    "portugal": {
+      "alpha3": "PRT",
+      "alpha2": "PT",
+      "numeric": "620"
+    },
+    "paraguay": {
+      "alpha3": "PRY",
+      "alpha2": "PY",
+      "numeric": "600"
+    },
+    "palestine, state of": {
+      "alpha3": "PSE",
+      "alpha2": "PS",
+      "numeric": "275"
+    },
+    "palestine": {
+      "alpha3": "PSE",
+      "alpha2": "PS",
+      "numeric": "275"
+    },
+    "french polynesia": {
+      "alpha3": "PYF",
+      "alpha2": "PF",
+      "numeric": "258"
+    },
+    "qatar": {
+      "alpha3": "QAT",
+      "alpha2": "QA",
+      "numeric": "634"
+    },
+    "réunion": {
+      "alpha3": "REU",
+      "alpha2": "RE",
+      "numeric": "638"
+    },
+    "reunion": {
+      "alpha3": "REU",
+      "alpha2": "RE",
+      "numeric": "638"
+    },
+    "romania": {
+      "alpha3": "ROU",
+      "alpha2": "RO",
+      "numeric": "642"
+    },
+    "russian federation": {
+      "alpha3": "RUS",
+      "alpha2": "RU",
+      "numeric": "643"
+    },
+    "russia": {
+      "alpha3": "RUS",
+      "alpha2": "RU",
+      "numeric": "643"
+    },
+    "rwanda": {
+      "alpha3": "RWA",
+      "alpha2": "RW",
+      "numeric": "646"
+    },
+    "saudi arabia": {
+      "alpha3": "SAU",
+      "alpha2": "SA",
+      "numeric": "682"
+    },
+    "sudan": {
+      "alpha3": "SDN",
+      "alpha2": "SD",
+      "numeric": "729"
+    },
+    "senegal": {
+      "alpha3": "SEN",
+      "alpha2": "SN",
+      "numeric": "686"
+    },
+    "singapore": {
+      "alpha3": "SGP",
+      "alpha2": "SG",
+      "numeric": "702"
+    },
+    "south georgia and the south sandwich islands": {
+      "alpha3": "SGS",
+      "alpha2": "GS",
+      "numeric": "239"
+    },
+    "st helena": {
+      "alpha3": "SHN",
+      "alpha2": "SH",
+      "numeric": "654"
+    },
+    "ascension": {
+      "alpha3": "SHN",
+      "alpha2": "SH",
+      "numeric": "654"
+    },
+    "tristian da cunha": {
+      "alpha3": "SHN",
+      "alpha2": "SH",
+      "numeric": "654"
+    },
+    "saint helena, ascension and tristan da cunha": {
+      "alpha3": "SHN",
+      "alpha2": "SH",
+      "numeric": "654"
+    },
+    "svalbard": {
+      "alpha3": "SJM",
+      "alpha2": "SJ",
+      "numeric": "744"
+    },
+    "jan mayen": {
+      "alpha3": "SJM",
+      "alpha2": "SJ",
+      "numeric": "744"
+    },
+    "svalbard and jan mayen": {
+      "alpha3": "SJM",
+      "alpha2": "SJ",
+      "numeric": "744"
+    },
+    "solomon islands": {
+      "alpha3": "SLB",
+      "alpha2": "SB",
+      "numeric": "090"
+    },
+    "sierra leone": {
+      "alpha3": "SLE",
+      "alpha2": "SL",
+      "numeric": "694"
+    },
+    "el salvador": {
+      "alpha3": "SLV",
+      "alpha2": "SV",
+      "numeric": "222"
+    },
+    "san marino": {
+      "alpha3": "SMR",
+      "alpha2": "SM",
+      "numeric": "674"
+    },
+    "somalia": {
+      "alpha3": "SOM",
+      "alpha2": "SO",
+      "numeric": "706"
+    },
+    "saint pierre and miquelon": {
+      "alpha3": "SPM",
+      "alpha2": "PM",
+      "numeric": "666"
+    },
+    "serbia": {
+      "alpha3": "SRB",
+      "alpha2": "RS",
+      "numeric": "688"
+    },
+    "south sudan": {
+      "alpha3": "SSD",
+      "alpha2": "SS",
+      "numeric": "728"
+    },
+    "sao tome": {
+      "alpha3": "STP",
+      "alpha2": "ST",
+      "numeric": "678"
+    },
+    "principe": {
+      "alpha3": "STP",
+      "alpha2": "ST",
+      "numeric": "678"
+    },
+    "sao tome and principe": {
+      "alpha3": "STP",
+      "alpha2": "ST",
+      "numeric": "678"
+    },
+    "suriname": {
+      "alpha3": "SUR",
+      "alpha2": "SR",
+      "numeric": "740"
+    },
+    "slovakia": {
+      "alpha3": "SVK",
+      "alpha2": "SK",
+      "numeric": "703"
+    },
+    "slovenia": {
+      "alpha3": "SVN",
+      "alpha2": "SI",
+      "numeric": "705"
+    },
+    "sweden": {
+      "alpha3": "SWE",
+      "alpha2": "SE",
+      "numeric": "752"
+    },
+    "eswatini": {
+      "alpha3": "SWZ",
+      "alpha2": "SZ",
+      "numeric": "748"
+    },
+    "sint maarten (dutch part)": {
+      "alpha3": "SXM",
+      "alpha2": "SX",
+      "numeric": "534"
+    },
+    "sint maarten": {
+      "alpha3": "SXM",
+      "alpha2": "SX",
+      "numeric": "534"
+    },
+    "seychelles": {
+      "alpha3": "SYC",
+      "alpha2": "SC",
+      "numeric": "690"
+    },
+    "syrian arab republic": {
+      "alpha3": "SYR",
+      "alpha2": "SY",
+      "numeric": "760"
+    },
+    "syria": {
+      "alpha3": "SYR",
+      "alpha2": "SY",
+      "numeric": "760"
+    },
+    "turks and caicos islands": {
+      "alpha3": "TCA",
+      "alpha2": "TC",
+      "numeric": "796"
+    },
+    "chad": {
+      "alpha3": "TCD",
+      "alpha2": "TD",
+      "numeric": "148"
+    },
+    "togo": {
+      "alpha3": "TGO",
+      "alpha2": "TG",
+      "numeric": "768"
+    },
+    "thailand": {
+      "alpha3": "THA",
+      "alpha2": "TH",
+      "numeric": "764"
+    },
+    "tajikistan": {
+      "alpha3": "TJK",
+      "alpha2": "TJ",
+      "numeric": "762"
+    },
+    "tokelau": {
+      "alpha3": "TKL",
+      "alpha2": "TK",
+      "numeric": "772"
+    },
+    "turkmenistan": {
+      "alpha3": "TKM",
+      "alpha2": "TM",
+      "numeric": "795"
+    },
+    "timor-leste": {
+      "alpha3": "TLS",
+      "alpha2": "TL",
+      "numeric": "626"
+    },
+    "east timor": {
+      "alpha3": "TLS",
+      "alpha2": "TL",
+      "numeric": "626"
+    },
+    "tonga": {
+      "alpha3": "TON",
+      "alpha2": "TO",
+      "numeric": "776"
+    },
+    "trinidad and tobago": {
+      "alpha3": "TTO",
+      "alpha2": "TT",
+      "numeric": "780"
+    },
+    "tunisia": {
+      "alpha3": "TUN",
+      "alpha2": "TN",
+      "numeric": "788"
+    },
+    "turkey": {
+      "alpha3": "TUR",
+      "alpha2": "TR",
+      "numeric": "792"
+    },
+    "tuvalu": {
+      "alpha3": "TUV",
+      "alpha2": "TV",
+      "numeric": "798"
+    },
+    "taiwan, province of china": {
+      "alpha3": "TWN",
+      "alpha2": "TW",
+      "numeric": "158"
+    },
+    "taiwan": {
+      "alpha3": "TWN",
+      "alpha2": "TW",
+      "numeric": "158"
+    },
+    "tanzania, united republic of": {
+      "alpha3": "TZA",
+      "alpha2": "TZ",
+      "numeric": "834"
+    },
+    "tanzania": {
+      "alpha3": "TZA",
+      "alpha2": "TZ",
+      "numeric": "834"
+    },
+    "uganda": {
+      "alpha3": "UGA",
+      "alpha2": "UG",
+      "numeric": "800"
+    },
+    "ukraine": {
+      "alpha3": "UKR",
+      "alpha2": "UA",
+      "numeric": "804"
+    },
+    "united states minor outlying islands": {
+      "alpha3": "UMI",
+      "alpha2": "UM",
+      "numeric": "581"
+    },
+    "uruguay": {
+      "alpha3": "URY",
+      "alpha2": "UY",
+      "numeric": "858"
+    },
+    "united states of america": {
+      "alpha3": "USA",
+      "alpha2": "US",
+      "numeric": "840"
+    },
+    "united states": {
+      "alpha3": "USA",
+      "alpha2": "US",
+      "numeric": "840"
+    },
+    "usa": {
+      "alpha3": "USA",
+      "alpha2": "US",
+      "numeric": "840"
+    },
+    "uzbekistan": {
+      "alpha3": "UZB",
+      "alpha2": "UZ",
+      "numeric": "860"
+    },
+    "holy see": {
+      "alpha3": "VAT",
+      "alpha2": "VA",
+      "numeric": "336"
+    },
+    "vatican city": {
+      "alpha3": "VAT",
+      "alpha2": "VA",
+      "numeric": "336"
+    },
+    "vatican": {
+      "alpha3": "VAT",
+      "alpha2": "VA",
+      "numeric": "336"
+    },
+    "saint vincent and the grenadines": {
+      "alpha3": "VCT",
+      "alpha2": "VC",
+      "numeric": "670"
+    },
+    "venezuela (bolivarian republic of)": {
+      "alpha3": "VEN",
+      "alpha2": "VE",
+      "numeric": "862"
+    },
+    "venezuela": {
+      "alpha3": "VEN",
+      "alpha2": "VE",
+      "numeric": "862"
+    },
+    "virgin islands (british)": {
+      "alpha3": "VGB",
+      "alpha2": "VG",
+      "numeric": "092"
+    },
+    "virgin islands (u.s.)": {
+      "alpha3": "VIR",
+      "alpha2": "VI",
+      "numeric": "850"
+    },
+    "viet nam": {
+      "alpha3": "VNM",
+      "alpha2": "VN",
+      "numeric": "704"
+    },
+    "vietnam": {
+      "alpha3": "VNM",
+      "alpha2": "VN",
+      "numeric": "704"
+    },
+    "vanuatu": {
+      "alpha3": "VUT",
+      "alpha2": "VU",
+      "numeric": "548"
+    },
+    "wallis and futuna": {
+      "alpha3": "WLF",
+      "alpha2": "WF",
+      "numeric": "876"
+    },
+    "samoa": {
+      "alpha3": "WSM",
+      "alpha2": "WS",
+      "numeric": "882"
+    },
+    "yemen": {
+      "alpha3": "YEM",
+      "alpha2": "YE",
+      "numeric": "887"
+    },
+    "south africa": {
+      "alpha3": "ZAF",
+      "alpha2": "ZA",
+      "numeric": "710"
+    },
+    "zambia": {
+      "alpha3": "ZMB",
+      "alpha2": "ZM",
+      "numeric": "894"
+    },
+    "zimbabwe": {
+      "alpha3": "ZWE",
+      "alpha2": "ZW",
+      "numeric": "716"
+    }
+  },
+  "iso_3166-2": {
+    "CN-AH": {
+      "code": "CN-AH",
+      "name": "Anhui Sheng",
+      "category": "province",
+      "otherNames": ["anhui", "安徽省"]
+    },
+    "CN-BJ": {
+      "code": "CN-BJ",
+      "name": "Beijing Shi",
+      "category": "municipality",
+      "otherNames": ["beijing", "北京市"]
+    },
+    "CN-CQ": {
+      "code": "CN-CQ",
+      "name": "Chongqing Shi",
+      "category": "municipality",
+      "otherNames": ["chongqing", "重庆市"]
+    },
+    "CN-FJ": {
+      "code": "CN-FJ",
+      "name": "Fujian Sheng",
+      "category": "province",
+      "otherNames": ["fujian", "福建省"]
+    },
+    "CN-GD": {
+      "code": "CN-GD",
+      "name": "Guangdong Sheng",
+      "category": "province",
+      "otherNames": ["guangdong", "广东省"]
+    },
+    "CN-GS": {
+      "code": "CN-GS",
+      "name": "Gansu Sheng",
+      "category": "province",
+      "otherNames": ["gansu", "甘肃省"]
+    },
+    "CN-GX": {
+      "code": "CN-GX",
+      "name": "Guangxi Zhuangzu Zizhiqu",
+      "category": "autonomous region",
+      "otherNames": ["guangxi", "广西壮族自治区"]
+    },
+    "CN-GZ": {
+      "code": "CN-GZ",
+      "name": "Guizhou Sheng",
+      "category": "province",
+      "otherNames": ["guizhou", "贵州省"]
+    },
+    "CN-HA": {
+      "code": "CN-HA",
+      "name": "Henan Sheng",
+      "category": "province",
+      "otherNames": ["henan", "河南省"]
+    },
+    "CN-HB": {
+      "code": "CN-HB",
+      "name": "Hubei Sheng",
+      "category": "province",
+      "otherNames": ["hubei", "湖北省"]
+    },
+    "CN-HE": {
+      "code": "CN-HE",
+      "name": "Hebei Sheng",
+      "category": "province",
+      "otherNames": ["hebei", "河北省"]
+    },
+    "CN-HI": {
+      "code": "CN-HI",
+      "name": "Hainan Sheng",
+      "category": "province",
+      "otherNames": ["hainan", "海南省"]
+    },
+    "CN-HK": {
+      "code": "CN-HK",
+      "name": "Xianggang Tebiexingzhengqu",
+      "category": "special administrative region",
+      "otherNames": ["hongkong", "香港特别行政区", "Hong Kong SAR", "Hong Kong"]
+    },
+    "CN-HL": {
+      "code": "CN-HL",
+      "name": "Heilongjiang Sheng",
+      "category": "province",
+      "otherNames": ["heilongjiang", "黑龙江省"]
+    },
+    "CN-HN": {
+      "code": "CN-HN",
+      "name": "Hunan Sheng",
+      "category": "province",
+      "otherNames": ["hunana", "湖南省"]
+    },
+    "CN-JL": {
+      "code": "CN-JL",
+      "name": "Jilin Sheng",
+      "category": "province",
+      "otherNames": ["jilin", "吉林省"]
+    },
+    "CN-JS": {
+      "code": "CN-JS",
+      "name": "Jiangsu Sheng",
+      "category": "province",
+      "otherNames": ["jiangsu", "江苏省"]
+    },
+    "CN-JX": {
+      "code": "CN-JX",
+      "name": "Jiangxi Sheng",
+      "category": "province",
+      "otherNames": ["jiangxi", "江西省"]
+    },
+    "CN-LN": {
+      "code": "CN-LN",
+      "name": "Liaoning Sheng",
+      "category": "province",
+      "otherNames": ["liaoning", "辽宁省"]
+    },
+    "CN-MO": {
+      "code": "CN-MO",
+      "name": "Aomen Tebiexingzhengqu",
+      "category": "special administrative region",
+      "otherNames": ["macau", "Macao SAR", "Macau SAR", "Macao", "Macau"]
+    },
+    "CN-NM": {
+      "code": "CN-NM",
+      "name": "Nei Mongol Zizhiqu",
+      "category": "autonomous region",
+      "otherNames": ["neimenggu", "内蒙古自治区", "Inner Mongolia"]
+    },
+    "CN-NX": {
+      "code": "CN-NX",
+      "name": "Ningxia Huizi Zizhiqu",
+      "category": "autonomous region",
+      "otherNames": ["ningxia", "宁夏回族自治区"]
+    },
+    "CN-QH": {
+      "code": "CN-QH",
+      "name": "Qinghai Sheng",
+      "category": "province",
+      "otherNames": ["qinghai", "青海省"]
+    },
+    "CN-SC": {
+      "code": "CN-SC",
+      "name": "Sichuan Sheng",
+      "category": "province",
+      "otherNames": ["sichuan", "四川省"]
+    },
+    "CN-SD": {
+      "code": "CN-SD",
+      "name": "Shandong Sheng",
+      "category": "province",
+      "otherNames": ["shandong", "山东省"]
+    },
+    "CN-SH": {
+      "code": "CN-SH",
+      "name": "Shanghai Shi",
+      "category": "municipality",
+      "otherNames": ["shanghai", "上海市"]
+    },
+    "CN-SN": {
+      "code": "CN-SN",
+      "name": "Shaanxi Sheng",
+      "category": "province",
+      "otherNames": ["shaanxi", "陕西省"]
+    },
+    "CN-SX": {
+      "code": "CN-SX",
+      "name": "Shanxi Sheng",
+      "category": "province",
+      "otherNames": ["shanxi", "山西省 "]
+    },
+    "CN-TJ": {
+      "code": "CN-TJ",
+      "name": "Tianjin Shi",
+      "category": "municipality",
+      "otherNames": ["tianjin", "天津市"]
+    },
+    "CN-TW": {
+      "code": "CN-TW",
+      "name": "Taiwan Sheng",
+      "category": "province",
+      "otherNames": ["taiwan", "台湾省"]
+    },
+    "CN-XJ": {
+      "code": "CN-XJ",
+      "name": "Xinjiang Uygur Zizhiqu",
+      "category": "autonomous region",
+      "otherNames": ["xinjiang", "新疆维吾尔自治区"]
+    },
+    "CN-XZ": {
+      "code": "CN-XZ",
+      "name": "Xizang Zizhiqu",
+      "category": "autonomous region",
+      "otherNames": ["xizang", "西藏自治区"]
+    },
+    "CN-YN": {
+      "code": "CN-YN",
+      "name": "Yunnan Sheng",
+      "category": "province",
+      "otherNames": ["yunnan", "云南省"]
+    },
+    "CN-ZJ": {
+      "code": "CN-ZJ",
+      "name": "Zhejiang Sheng",
+      "category": "province",
+      "otherNames": ["zhejiang", "浙江省"]
+    },
+    "CA-AB": {
+      "code": "CA-AB",
+      "name": "Alberta",
+      "category": "province",
+      "otherNames": ["alberta"]
+    },
+    "CA-BC": {
+      "code": "CA-BC",
+      "name": "British Columbia",
+      "category": "province",
+      "otherNames": ["british columbia", "Colombie-Britannique"]
+    },
+    "CA-MB": {
+      "code": "CA-MB",
+      "name": "Manitoba",
+      "category": "province",
+      "otherNames": ["manitoba"]
+    },
+    "CA-NB": {
+      "code": "CA-NB",
+      "name": "New Brunswick",
+      "category": "province",
+      "otherNames": ["new brunswick", "Nouveau-Brunswick"]
+    },
+    "CA-NL": {
+      "code": "CA-NL",
+      "name": "Newfoundland and Labrador",
+      "category": "province",
+      "otherNames": ["newfoundland and labrador", "Terre-Neuve-et-Labrador"]
+    },
+    "CA-NS": {
+      "code": "CA-NS",
+      "name": "Nova Scotia",
+      "category": "province",
+      "otherNames": ["nova scotia", "Nouvelle-Écosse"]
+    },
+    "CA-ON": {
+      "code": "CA-ON",
+      "name": "Ontario",
+      "category": "province",
+      "otherNames": ["ontario"]
+    },
+    "CA-PE": {
+      "code": "CA-PE",
+      "name": "Prince Edward Island",
+      "category": "province",
+      "otherNames": ["prince edward island", "Île-du-Prince-Édouard"]
+    },
+    "CA-QC": {
+      "code": "CA-QC",
+      "name": "Quebec",
+      "category": "province",
+      "otherNames": ["quebec", "Québec"]
+    },
+    "CA-SK": {
+      "code": "CA-SK",
+      "name": "Saskatchewan",
+      "category": "province",
+      "otherNames": ["saskatchewan"]
+    },
+    "CA-NT": {
+      "code": "CA-NT",
+      "name": "Northwest Territories",
+      "category": "territory",
+      "otherNames": ["northwest territories", "Territoires du Nord-Ouest"]
+    },
+    "CA-NU": {
+      "code": "CA-NU",
+      "name": "Nunavut",
+      "category": "territory",
+      "otherNames": ["nunavut"]
+    },
+    "CA-YT": {
+      "code": "CA-YT",
+      "name": "Yukon",
+      "category": "territory",
+      "otherNames": ["yukon"]
+    }
+  }
+}

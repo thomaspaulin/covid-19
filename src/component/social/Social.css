@@ -1,0 +1,15 @@
+.social-wrapper {
+    position: fixed;
+    margin: 1rem;
+    bottom: 0px;
+
+    display: flex;
+    flex-direction: row;
+    z-index: 999;
+}
+
+.social-icon {
+    margin-right: 0.5rem;
+    color: #ffffff;
+    opacity: 0.2;
+}

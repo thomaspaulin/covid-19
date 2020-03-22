@@ -58,7 +58,6 @@ export default function App() {
   const [countryData, setCountryData] = useState(null);
 
   const selectionHandler = function(feature) {
-    console.log(feature.properties);
     const selectedCountry = {
       id: feature.properties.iso_a3,
       alpha2: feature.properties.iso_a2,

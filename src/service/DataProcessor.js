@@ -22,6 +22,27 @@ function parseRegionData(data) {
   };
 }
 
+// some of the HGIS data columns have names which don't match those in the ISO-3166 spec such as "congo" and "congo kinshasa". The function is a hack
+// to map from those (known) strange columns to ones I'm expecting
+function mapHGISNames(columnTitle) {
+  const mappings = {
+    'congo': 'congo, democratic republic of the',
+    'congo kinshasa': 'congo',
+    'south korea': 'korea, republic of',
+    'swaziland': 'eswatini',
+    'u.s. virgin islands': 'virgin islands (u.s.)',
+    'british virgin islands': 'virgin islands (british)',
+    'saint martin': 'saint martin (french part)',
+  };
+  
+  const mappedValue = mappings[columnTitle]
+  if (!mappedValue) {
+    return columnTitle;
+  }
+
+  return mappedValue;
+}
+
 export async function transformHGISCOVID19Data(csvData) {
   // todo clean up this function and put country codes in local storage
   const countryAndSubdivisionCodes = await code.retrieve();
@@ -38,7 +59,7 @@ export async function transformHGISCOVID19Data(csvData) {
       for (let j = 1; j < fileRow.length; j++) {
         // the USA, Canada, and China are more granular than a country level and this is causing problems with the geojson which is a country level only
         
-        const region = await parseRegion(cols[j], countryCodes, subdivisionToCountryMappings.data);
+        const region = await parseRegion(mapHGISNames(cols[j]), countryCodes, subdivisionToCountryMappings.data);
         // const region = countryCodes[cols[j]]
         //   ? countryCodes[cols[j]]["alpha3"]
         //   : undefined;

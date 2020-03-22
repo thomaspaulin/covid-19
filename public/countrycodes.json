@@ -431,7 +431,7 @@
       "alpha2": "ET",
       "numeric": "231"
     },
-    "Finland": {
+    "finland": {
       "alpha3": "FIN",
       "alpha2": "FI",
       "numeric": "246"
@@ -726,6 +726,11 @@
       "alpha2": "KR",
       "numberic": "410"
     },
+    "south korea": {
+      "alpha3": "KOR",
+      "alpha2": "KR",
+      "numeric": "410"
+    },
     "kuwait": {
       "alpha3": "KWT",
       "alpha2": "KW",
@@ -797,6 +802,11 @@
       "numeric": "446"
     },
     "saint martin (french part)": {
+      "alpha3": "MAF",
+      "alpha2": "MF",
+      "numeric": "663"
+    },
+    "saint martin": {
       "alpha3": "MAF",
       "alpha2": "MF",
       "numeric": "663"

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "COVID-19 Distribution",
+  "name": "Map of COVID-19 Distribution",
   "icons": [
     {
       "src": "favicon.ico",

@@ -78,7 +78,7 @@ export default function App() {
   return (
     <div className="App">
       <InformationDrawer
-        title="COVID-19 Incidence"
+        title="COVID-19 Distribution"
         selectedCountry={selection}
         countryData={countryData}
       ></InformationDrawer>

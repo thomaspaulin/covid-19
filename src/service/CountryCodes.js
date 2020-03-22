@@ -7,12 +7,12 @@ const SUBDIVISION_KEY = "subdivisionCodes";
 // const UPDATE_CHECK_URL = "todo/update-check/"
 
 async function fetchCountryCodes() {
-    return fetch('http://localhost:3000/countrycodes.json')
+    return fetch(`${process.env.PUBLIC_URL}/countrycodes.json`)
         .then(res => res.json());
 }
 
 async function fetchSubdivisonToCountryMappings() {
-    return fetch('http://localhost:3000/countryregioncodes.json')
+    return fetch(`${process.env.PUBLIC_URL}/countryregioncodes.json`)
         .then(res => res.json());
 }
 

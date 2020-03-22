@@ -1,7 +1,7 @@
 import { createStorage } from "./Cache";
 
 async function fetchLocal() {
-  return fetch('http://localhost:3000/countries.geojson')
+  return fetch(`${process.env.PUBLIC_URL}/countries.geojson`)
       .then(res => res.json());
 }
 

@@ -28,7 +28,8 @@ async function _retrieve(storageKey, fetchFn, invalidationCheckFn) {
             }
         } catch (e) {
             if (e.name === 'QuotaExceededError') {
-                console.err("Error when saving data.");
+                console.error("Error when saving data. I'll have to fetch each time :(");
+                return fetchedData;
             } else {
                 throw e;
             }

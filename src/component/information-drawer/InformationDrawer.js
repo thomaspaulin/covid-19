@@ -1,5 +1,5 @@
 import React from "react";
-import { CountryCases } from "../country-cases/CountryCases";
+import { CountryData } from "../country-data/CountryData";
 
 import "./InformationDrawer.css";
 
@@ -46,18 +46,19 @@ export default function InformationDrawer({
         <h2>{name}</h2>
       </div>
       <div className="cases-wrapper">
-        <div className="cases">
-          Cases
-          <CountryCases cases={cases}></CountryCases>
-        </div>
-        <div className="recoveries">
-          Recoveries
-          <CountryCases cases={recoveries}></CountryCases>
-        </div>
-        <div className="deaths">
-          Deaths
-          <CountryCases cases={deaths}></CountryCases>
-        </div>
+        <CountryData 
+          title="Cases" 
+          type="cases" 
+          count={cases}></CountryData>
+        <CountryData
+          title="Recoveries"
+          type="recoveries"
+          count={recoveries}
+        ></CountryData>
+        <CountryData 
+          title="Deaths" 
+          type="deaths" 
+          count={deaths}></CountryData>
       </div>
       <div className="drawer-filler"></div>
       <div className="drawer-footer">

@@ -42,18 +42,6 @@
   margin: 1rem 0 1rem 0;
 }
 
-.cases {
-  color: #feceab;
-}
-
-.recoveries {
-  color: #99b898;
-}
-
-.deaths {
-  color: #e84a5f;
-}
-
 .drawer-filler {
   flex: 1;
 }

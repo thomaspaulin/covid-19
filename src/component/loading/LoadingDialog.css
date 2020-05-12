@@ -1,0 +1,21 @@
+.centred {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loading-box {
+    padding: 1rem;
+    margin: 0 auto;
+
+    z-index: 999;
+}
+
+.loading {
+    display: block;
+}
+
+.not-loading {
+    display: none;
+}

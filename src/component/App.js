@@ -4,6 +4,7 @@ import "./App.css";
 import ChloroplethMap from "./map/ChloroplethMap";
 import InformationDrawer from "./information-drawer/InformationDrawer";
 import SocialLinks from "./social/SocialLinks";
+import LoadingDialog from "./loading/LoadingDialog";
 import { getLatestData } from "../service/Time";
 import { outbreakData } from "../service/OubreakData";
 import { geojson as geojsonStore } from "../service/GeoJSON";
@@ -38,6 +39,8 @@ const setupDataForTesting = function(geojson, globalData, setGeoJson) {
 };
 
 export default function App() {
+  const [isLoading, setIsLoading] = useState(true);
+
   const [mapData, setMapData] = useState(null);
   useEffect(() => {
     if (!mapData) {
@@ -75,8 +78,19 @@ export default function App() {
     }
   }, [geojson, globalData]);
 
+  useEffect(() => {
+    if (geojson) {
+      console.log("Has Map Data");
+      setIsLoading(false);
+    }
+  },
+  [geojson]);
+
   return (
     <div className="App">
+      <LoadingDialog
+        isLoading={isLoading}
+      ></LoadingDialog>
       <InformationDrawer
         title="COVID-19 Distribution"
         selectedCountry={selection}

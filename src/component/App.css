@@ -9,3 +9,8 @@ h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.box {
+  background-color: #2a363b;
+  color: white;
+  box-shadow: 1px 1px 5px 0px #232323;
+}

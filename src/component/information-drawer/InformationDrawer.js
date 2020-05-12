@@ -39,7 +39,7 @@ export default function InformationDrawer({
   }
 
   return (
-    <div className="drawer-wrapper">
+    <div className="box drawer-wrapper">
       <h2 className="drawer-title">{title}</h2>
       <div className="country-header">
         {flagEmoji}

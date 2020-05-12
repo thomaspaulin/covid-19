@@ -20,7 +20,8 @@
 
 .leaflet-control-attribution {
     /* the attribution element itself overrides inline so the !important is required */
-    background-color: #2a363b !important;   
+    background-color: #2a363b !important;
+    color: white;
 }
 
 .leaflet-control-attribution a {

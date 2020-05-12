@@ -68,14 +68,9 @@ export default function ChloroplethMap({
         center: [0, 0],
         zoom: 3,
         zoomControl: false,
-        // layers: [
-          // L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
-          //   attribution:
-          //     '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-          // })
-        // ]
       });
       mapRef.current.addControl(L.control.zoom({ position: "topright" }));
+      mapRef.current.attributionControl.addAttribution('<a href="https://hgis.uw.edu/virus/">Data by the University of Washington HGIS Laboratory</a>');
     }
   }, [mapRef]);
 

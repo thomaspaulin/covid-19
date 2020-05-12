@@ -46,6 +46,11 @@
       "alpha2": "AE",
       "numeric": "784"
     },
+    "united arab": {
+      "alpha3": "ARE",
+      "alpha2": "AE",
+      "numeric": "784"
+    },
     "argentina": {
       "alpha3": "ARG",
       "alpha2": "AR",
@@ -296,7 +301,17 @@
       "alpha2": "CD",
       "numeric": "180"
     },
+    "dr congo": {
+      "alpha3": "COD",
+      "alpha2": "CD",
+      "numeric": "180"
+    },
     "congo": {
+      "alpha3": "COG",
+      "alpha2": "CG",
+      "numeric": "178"
+    },
+    "republic of the congo": {
       "alpha3": "COG",
       "alpha2": "CG",
       "numeric": "178"
